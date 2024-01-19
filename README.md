@@ -63,14 +63,27 @@ Técnologias utilizadas: Eletrônica analógica, Impressão 3D.
 
 ## Experiência Profissional
 
-### [FIKIRIA] - [ESTÁGIO]
+### FIKIRIA - ESTÁGIO
+2021 - 08/23
 Atuando como desenvolvedor de produtos para automatização do agronegócio, IoT, Inteligência Artificial, monitoramento de câmaras frias, produção de cogumelos, secagem e torra de café;
 Elaboração de projetos desde a idealização do produto, como a escolha de hardware, projeto de firmware, até a montagem, validação, como teste de bancada com multímetro, osciloscópio e teste de campo e a criação da documentação.
 
-### [PROGRAMA DE PRÉ ACELERAÇÃO DE STARTUPS - LEMONADE] - [CTO]
+### Iniciação Científica no Museu BiMoreira [UFLA] 
+2019
+Importância do Patrimônio de Ciência e Tecnologia da Universidade.
+
+### PROGRAMA DE PRÉ ACELERAÇÃO DE STARTUPS - LEMONADE - CTO
+2017
 Participação com a Equipe LegTuner com função de liderança, atuando como desenvolvedor de software, focando em inovação tecnológica, que visava a construção de uma órtese para tornozelo para ajudar na reabilitação de pessoas que sofriam de distúrbios cinético funcionais.
 
-### [Sanders do Brasil] - [MONTADOR DE MÁQUINAS]
+### Núcleo de Estudos trabalhando com a Biomecânica Aplicada a Reabilitação Humana (BEARH) 
+2016 - 2019
+Trabalhando como líder da equipe de Software no desenvolvimento, principalmente, do projeto suporte de peso corporal, para que fosse acessível para
+pacientes utilizarem o produto em clínicas de reabilitação. Desenvolvendo as seguintes competências: Treinamento de equipes, Capacidade de organização, Gestão de projetos, Liderança de equipe, desenvolvimento dos firmwares e das IHM.
+
+
+### Sanders do Brasil - [MONTADOR DE MÁQUINAS]
+2014 - 05/2015
 Montagem mecânica, eletrônica e teste de equipamentos de uso odontológico e hospitalar, através de gigas de teste, osciloscópio e multímetro.
 
 ## Educação
