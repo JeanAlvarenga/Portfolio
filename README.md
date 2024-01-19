@@ -6,6 +6,9 @@ Bem-vindo ao meu portfólio! Este repositório contém uma visão geral dos meus
 
 Meu nome é Jean Paulo de Alvarenga, e sou um ENGENHEIRO DE CONTROLE E AUTOMAÇÃO e TÉCNICO DE TELECOMUNICAÇÕES apaixonado por tecnologia e inovação, prezando sempre a melhoria da qualidade de vida humana. Ao longo da minha jornada profissional, tenho trabalhado em diversos projetos desafiadores e buscado constantemente aprimorar minhas habilidades.
 
+## [Meu Curriculum](https://github.com/JeanAlvarenga/Portfolio/blob/main/curriculum.pdf)
+
+
 ## Projetos Destacados
 
 ### Depósito de Patente BR 10 2022 007340 6
@@ -21,7 +24,19 @@ Técnologias utilizadas: Eletrônica analógica, Impressão 3D.
  O objetivo do projeto era minimizar a dificuldade da comunicação de um professor com um aluno com deficiência auditiva. O projeto consistia na captação da voz do professor e na utilização de um software on-line para conversão da voz em texto, sendo esse texto projetado em uma tela para o aluno. Outra característica do projeto era a interação do aluno com o professor através de uma pulseira: com 3 botões, o aluno podia solicitar ajuda do professor, que recebia uma mensagem que podia ser visualizada em um display LCD a cada vez que um dos botões era pressionado.
  Técnologias utilizadas: Programação de microcontroladores, Transladação.
 
+ ### [Projetos em Eletrônica e Programação](https://github.com/JeanAlvarenga/Portfolio/blob/main/Meus%20Projetos.pdf)
+
 ## Habilidades
+
+- HABILIDADES E COMPETENCIAS TÉCNICAS
+    - Gestão de projetos, liderança, trabalho em equipe, pró ativo;
+    - Extremamente hábil em montagem e desenvolvimento de circuitos eletrônicos e placas de circuito impresso, dispositivos embarcados;
+    - Arduino Esp8266 e Esp32;
+    - Inteligência artificial, Agricultura 4.0, IoT;
+    - Projeto, montagem e instalações elétricas de baixa tensão;
+    - Programação de lógica de CLPs;
+    - Instrumentação: multímetro, osciloscópio.
+
 
 - Linguagens de Programação: 
     - JAVA    ★★★★☆
@@ -48,11 +63,15 @@ Técnologias utilizadas: Eletrônica analógica, Impressão 3D.
 
 ## Experiência Profissional
 
-### [Nome da Empresa] - [Cargo]
-Período de trabalho, responsabilidades e conquistas relevantes.
+### [FIKIRIA] - [ESTÁGIO]
+Atuando como desenvolvedor de produtos para automatização do agronegócio, IoT, Inteligência Artificial, monitoramento de câmaras frias, produção de cogumelos, secagem e torra de café;
+Elaboração de projetos desde a idealização do produto, como a escolha de hardware, projeto de firmware, até a montagem, validação, como teste de bancada com multímetro, osciloscópio e teste de campo e a criação da documentação.
 
-### [Nome da Empresa] - [Cargo]
-Outras experiências profissionais, se aplicável.
+### [PROGRAMA DE PRÉ ACELERAÇÃO DE STARTUPS - LEMONADE] - [CTO]
+Participação com a Equipe LegTuner com função de liderança, atuando como desenvolvedor de software, focando em inovação tecnológica, que visava a construção de uma órtese para tornozelo para ajudar na reabilitação de pessoas que sofriam de distúrbios cinético funcionais.
+
+### [Sanders do Brasil] - [MONTADOR DE MÁQUINAS]
+Montagem mecânica, eletrônica e teste de equipamentos de uso odontológico e hospitalar, através de gigas de teste, osciloscópio e multímetro.
 
 ## Educação
 
