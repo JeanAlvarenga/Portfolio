@@ -4,19 +4,39 @@ Bem-vindo ao meu portfólio! Este repositório contém uma visão geral dos meus
 
 ## Sobre Mim
 
-Meu nome é Jean Paulo de Alvarenga, e sou um ENGENHEIRO DE CONTROLE E AUTOMAÇÃO apaixonado por tecnologia e inovação, prezando sempre a melhoria da qualidade de vida humana. Ao longo da minha jornada profissional, tenho trabalhado em diversos projetos desafiadores e buscado constantemente aprimorar minhas habilidades.
+Meu nome é Jean Paulo de Alvarenga, e sou um ENGENHEIRO DE CONTROLE E AUTOMAÇÃO e TÉCNICO DE TELECOMUNICAÇÕES apaixonado por tecnologia e inovação, prezando sempre a melhoria da qualidade de vida humana. Ao longo da minha jornada profissional, tenho trabalhado em diversos projetos desafiadores e buscado constantemente aprimorar minhas habilidades.
 
 ## Projetos Destacados
 
-### [Nome do Projeto 1]
-Descrição breve do projeto, tecnologias utilizadas e resultado alcançado. Adicione links para o projeto, caso esteja hospedado online.
+### Depósito de Patente BR 10 2022 007340 6
+Titulo: ANALISADOR DE ESTABILIDADE OXIDATIVA DE ÓLEOS E GORDURAS POR MONITORAMENTO DIRETO DOS VAPORES DE OXIDAÇÃO
+Foi meu projeto de TCC, onde desenvolvi um equipamento capaz de analizar a estabilidade oxidativa de lipídios. Para o desenvolvimento, foi projetado um hardware e um software específicos para controlar a aplicação.
+Técnologias utilizadas: Controlador PID, Filtros digitais, GUI, C++, Java Script, etc.
 
-### [Nome do Projeto 2]
-Outra descrição breve de um projeto relevante, destacando suas contribuições e impacto. Inclua links relevantes.
+### 1º lugar na Projete 2014  com projeto “Próteses Biônicas”
+A ideia principal do projeto consistia em controlar o movimento de abertura e fechamento de uma ortese de mão através da inclinação da cabeça do usuário, utilizando apenas eletrônica analógica. A mão era um protótipo construída em impressora 3D.
 
 ## Habilidades
 
-- Linguagens de Programação: [Liste as linguagens em que você é proficiente]
+- Linguagens de Programação: 
+    JAVA    ★★★★☆
+    PYTHON  ★★★☆☆
+    C++     ★★★☆☆
+    C       ★★☆☆☆
+    LADDER  ★☆☆☆☆
+   
+- SOFTWARES DE APLICAÇÃO:
+    - Proteus e Eagle
+    - Matlab
+    - Android Studio
+    - LabView
+    - AutoCAD
+    - Pacote Office
+    - LTSpice
+    - Git e Github
+    - Node-red
+    - PuTTY
+
 - Frameworks e Bibliotecas: [Liste as tecnologias específicas que você domina]
 - Outras Habilidades: [Exemplos podem incluir design, trabalho em equipe, comunicação, etc.]
 
@@ -30,14 +50,14 @@ Outras experiências profissionais, se aplicável.
 
 ## Educação
 
-- [Nome da Instituição] - [Grau Conquistado] em [Área de Estudo]
-- [Outras qualificações ou cursos relevantes]
+- UNIVERSIDADE FEDERAL DE LAVRAS - Bacharel em Engenharia de Controle e Automação
+- ESCOLA TÉCNICA DE ELETRÔNICA “FRANCISCO MOREIRA DA COSTA” - Técnico em Telecomunicações
 
 ## Contato
 
-- Email: [Seu endereço de e-mail]
-- LinkedIn: [Seu perfil do LinkedIn]
-- Outras redes sociais ou formas de contato, se aplicável.
+- Email: jeanpalvarenga@gmail.com
+- LinkedIn: https://linkedin.com/in/jean-paulo-alvarenga-293bbb135
+- Site: https://sites.google.com/view/jaielectronike/
 
 ## Como Contribuir
 
