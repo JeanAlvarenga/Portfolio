@@ -11,22 +11,28 @@ Meu nome é Jean Paulo de Alvarenga, e sou um ENGENHEIRO DE CONTROLE E AUTOMAÇ�
 ### Depósito de Patente BR 10 2022 007340 6
 Titulo: ANALISADOR DE ESTABILIDADE OXIDATIVA DE ÓLEOS E GORDURAS POR MONITORAMENTO DIRETO DOS VAPORES DE OXIDAÇÃO
 Foi meu projeto de TCC, onde desenvolvi um equipamento capaz de analizar a estabilidade oxidativa de lipídios. Para o desenvolvimento, foi projetado um hardware e um software específicos para controlar a aplicação.
-Técnologias utilizadas: Controlador PID, Filtros digitais, GUI, C++, Java Script, etc.
+Técnologias utilizadas: Controlador PID, Filtros digitais,eletrônica, GUI, C++, Java Script, etc.
 
-### 1º lugar na Projete 2014  com projeto “Próteses Biônicas”
-A ideia principal do projeto consistia em controlar o movimento de abertura e fechamento de uma ortese de mão através da inclinação da cabeça do usuário, utilizando apenas eletrônica analógica. A mão era um protótipo construída em impressora 3D.
+### Prêmio de 1º lugar na Projete 2014  com projeto “Próteses Biônicas”
+A ideia principal do projeto consistia em controlar o movimento de abertura e fechamento de uma ortese de mão através da inclinação da cabeça do usuário, utilizando apenas eletrônica analógica.
+Técnologias utilizadas: Eletrônica analógica, Impressão 3D.
+
+### Prêmio de Inovação Tecnológica na Projete 2015  com projeto “HELPER”
+ O objetivo do projeto era minimizar a dificuldade da comunicação de um professor com um aluno com deficiência auditiva. O projeto consistia na captação da voz do professor e na utilização de um software on-line para conversão da voz em texto, sendo esse texto projetado em uma tela para o aluno. Outra característica do projeto era a interação do aluno com o professor através de uma pulseira: com 3 botões, o aluno podia solicitar ajuda do professor, que recebia uma mensagem que podia ser visualizada em um display LCD a cada vez que um dos botões era pressionado.
+ Técnologias utilizadas: Programação de microcontroladores, Transladação.
 
 ## Habilidades
 
 - Linguagens de Programação: 
-    JAVA    ★★★★☆
-    PYTHON  ★★★☆☆
-    C++     ★★★☆☆
-    C       ★★☆☆☆
-    LADDER  ★☆☆☆☆
+    - JAVA    ★★★★☆
+    - PYTHON  ★★★☆☆
+    - C++     ★★★☆☆
+    - C       ★★☆☆☆
+    - LADDER  ★☆☆☆☆
    
 - SOFTWARES DE APLICAÇÃO:
     - Proteus e Eagle
+    - Multisim
     - Matlab
     - Android Studio
     - LabView
@@ -59,9 +65,6 @@ Outras experiências profissionais, se aplicável.
 - LinkedIn: https://linkedin.com/in/jean-paulo-alvarenga-293bbb135
 - Site: https://sites.google.com/view/jaielectronike/
 
-## Como Contribuir
-
-Se você encontrar erros, bugs ou melhorias potenciais no meu trabalho, por favor, sinta-se à vontade para abrir uma issue ou enviar um pull request. Estou sempre aberto(a) a colaborações construtivas!
 
 Obrigado por visitar meu portfólio!
 
